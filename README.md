@@ -1,0 +1,2 @@
+# Firered
+pokemon
